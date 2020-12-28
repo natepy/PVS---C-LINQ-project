@@ -1,0 +1,6 @@
+C:\Users\Nate\Documents\College-SEM3\subjects\OOTAP\code\labs\OOTAP-Lab4\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+C:\Users\Nate\Documents\College-SEM3\subjects\OOTAP\code\labs\OOTAP-Lab4\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\Nate\Documents\College-SEM3\subjects\OOTAP\code\labs\OOTAP-Lab4\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\Nate\Documents\College-SEM3\subjects\OOTAP\code\labs\OOTAP-Lab4\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\Nate\Documents\College-SEM3\subjects\OOTAP\code\labs\OOTAP-Lab4\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\Nate\Documents\College-SEM3\subjects\OOTAP\code\labs\OOTAP-Lab4\Lab4\Lab4\obj\Debug\Lab4.pdb
